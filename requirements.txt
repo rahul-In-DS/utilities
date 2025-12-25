@@ -1,0 +1,6 @@
+pandas
+numpy
+psutil
+numba
+h3
+tqdm
